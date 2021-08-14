@@ -1,0 +1,31 @@
+git init			Initialize the repo locally
+
+git add file_name		Add file to staging area (this happens before commit the change)
+
+git add .			Add all the files in the local repo including files within folders
+
+git checkout -- file_name	Discard changes in the staging area
+
+git commit -m "commit message"	Commit changes with a message
+
+git revert #commit		Revert changes in a previous commit. Get commit # with git log. q:
+
+git revert -n #commit		Revert changes without commit it, change needs to be commited
+
+git reset --hard #commit	Revert changes untill #commit selected (can be very destructive, be careful)
+
+git branch			Check branches
+
+git branch branch_name		Add a new branch
+
+git checkout branch_name	Go to a specific branch
+
+git checkout -b branch_name	Create a new branch and checkout to that branch
+
+git branch -d branch_name	Delete branch
+
+git difftool #commit1 #commit 2	Show changes of 2 commits
+
+git difftool HEAD~1 HEAD~2	Show changes of 2 commits
+
+
