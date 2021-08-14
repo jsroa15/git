@@ -28,4 +28,12 @@ git difftool #commit1 #commit 2	Show changes of 2 commits
 
 git difftool HEAD~1 HEAD~2	Show changes of 2 commits
 
+Create a virtual repo from local 
+git branch -M main
+git remote add origin https://github.com/jsroa15/git.git
+git push -u origin main
+
+
+
+
 
