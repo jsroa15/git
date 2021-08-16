@@ -33,6 +33,13 @@ git branch -M main
 git remote add origin https://github.com/jsroa15/git.git
 git push -u origin main
 
+Setup credentials
+
+git config --global user.name "GitHub_username"
+
+git config --global user.email "GitHub_email"
+
+
 
 
 
