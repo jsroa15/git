@@ -39,9 +39,13 @@ git config --global user.name "GitHub_username"
 
 git config --global user.email "GitHub_email"
 
+<<<<<<< HEAD
 This is Test_A,and this is test B
 ##################
 NEW today
+=======
+This is Test_A##,and this is test B
+>>>>>>> Dash2
 
 #Include1,include2,include3.1
 
