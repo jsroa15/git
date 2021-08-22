@@ -38,5 +38,3 @@ Setup credentials
 git config --global user.name "GitHub_username"
 
 git config --global user.email "GitHub_email"
-
-Que mas pues
