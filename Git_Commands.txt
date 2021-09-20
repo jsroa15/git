@@ -8,7 +8,7 @@ git checkout -- file_name	Discard changes in the staging area
 
 git commit -m "commit message"	Commit changes with a message
 
-git revert #commit		Revert changes in a previous commit. Get commit # with git log. q:
+git revert #commit		Revert changes in a previous commit. Get commit # with git log. :q
 
 git revert -n #commit		Revert changes without commit it, change needs to be commited
 
@@ -38,7 +38,3 @@ Setup credentials
 git config --global user.name "GitHub_username"
 
 git config --global user.email "GitHub_email"
-
-adicion1
-adicion2
-adicion3
