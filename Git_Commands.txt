@@ -41,4 +41,3 @@ git config --global user.email "GitHub_email"
 
 adicion1
 adicion2
-adicion3
