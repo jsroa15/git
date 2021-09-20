@@ -40,3 +40,5 @@ git config --global user.name "GitHub_username"
 git config --global user.email "GitHub_email"
 
 adicion3
+adicion1
+adicion2
