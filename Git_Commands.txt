@@ -38,3 +38,8 @@ Setup credentials
 git config --global user.name "GitHub_username"
 
 git config --global user.email "GitHub_email"
+
+
+## Change Branch Name local and remote ##
+git branch -m actual_name new_name
+git push origin:actual_name new_name
